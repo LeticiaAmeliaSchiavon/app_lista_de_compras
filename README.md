@@ -1,4 +1,6 @@
-# 📱 App: Lista de Compras 
+GROWDEV - Formação Flutter
+
+# 📱 App Lista de Compras
 
 Aplicativo de lista de compras desenvolvido em Flutter, permitindo criar listas, adicionar itens, marcar como comprados e acompanhar o progresso e valores em tempo real.
 
@@ -26,8 +28,8 @@ Aplicativo de lista de compras desenvolvido em Flutter, permitindo criar listas,
 
 
 ## 🛠️ Tecnologias
-- Flutter  
-- Dart  
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)  
 
 ## ▶️ Como rodar o projeto
 ```bash
