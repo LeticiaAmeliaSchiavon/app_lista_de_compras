@@ -1,4 +1,4 @@
-GROWDEV - Formação Flutter
+**[Growdev](https://growdev.com.br/)** - *Formação de Desenvolvimento mobile com Flutter*
 
 # 📱 App Lista de Compras
 
